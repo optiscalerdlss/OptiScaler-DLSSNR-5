@@ -1,0 +1,2 @@
+/* rev-c14e2a-20260914 */
+buffer scan opt-in, vulkan too
